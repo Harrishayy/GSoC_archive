@@ -42,7 +42,7 @@ For more 2025 accepted proposals from 100xDevs, check out this blog post: [100xd
 
 # Proposal Count
 
-Total proposals submitted: **40**
+Total proposals submitted: **41**
 
 ## Contributing a Proposal
 
@@ -114,6 +114,7 @@ That's it. Your work could help someone get in next year.
 - [x] Kornia
 - [x] Learning Equality
 - [x] Machine Learning for Science (ML4SCI)
+- [x] OWASP
 - [x] Open Science Initiative for Perfusion Imaging
 - [x] OpenAstronomy
 - [x] Pharo Consortium
@@ -139,6 +140,7 @@ That's it. Your work could help someone get in next year.
 - [Darshan Patil](https://github.com/darshvn)
 - [Dhairya Majmudar](https://github.com/DhairyaMajmudar)
 - [Dhairyashil Shinde](https://github.com/dhairyashiil)
+- [Dishant Miyani](https://github.com/Dishant1804)
 - [Eddie Liu](https://github.com/taoerman)
 - [Gauri Ket](https://github.com/gauriket)
 - [Habiba Ayman](https://github.com/habibayman)
@@ -176,6 +178,7 @@ That's it. Your work could help someone get in next year.
   <a href="https://github.com/darshvn"><img src="https://github.com/darshvn.png" width="60px" alt="darshvn" /></a>
   <a href="https://github.com/DhairyaMajmudar"><img src="https://github.com/DhairyaMajmudar.png" width="60px" alt="DhairyaMajmudar" /></a>
   <a href="https://github.com/dhairyashiil"><img src="https://github.com/dhairyashiil.png" width="60px" alt="dhairyashiil" /></a>
+  <a href="https://github.com/Dishant1804"><img src="https://github.com/Dishant1804.png" width="60px" alt="Dishant1804" /></a>
   <a href="https://github.com/f-ei8ht"><img src="https://github.com/f-ei8ht.png" width="60px" alt="f-ei8ht" /></a>
   <a href="https://github.com/FallenDeity"><img src="https://github.com/FallenDeity.png" width="60px" alt="FallenDeity" /></a>
   <a href="https://github.com/gauriket"><img src="https://github.com/gauriket.png" width="60px" alt="gauriket" /></a>
