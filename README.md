@@ -8,7 +8,7 @@
 
 **Website:** [https://gsocguide.vercel.app/](https://gsocguide.vercel.app/)  
 A comprehensive platform to help you succeed in Google Summer of Code.  
-Explore org-wise accepted proposals **(110+ proposals)** from past years and curated blogs, tips, and resources to maximize your chances.
+Explore org-wise accepted proposals **(120+ proposals)** from past years and curated blogs, tips, and resources to maximize your chances.
 
 <img width="860" alt="image" src="https://github.com/user-attachments/assets/d1c36ebd-293c-4e9d-a6e0-06ae27d64874" />
 
